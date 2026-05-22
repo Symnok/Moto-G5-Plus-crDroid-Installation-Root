@@ -591,3 +591,19 @@ Do not flash Magisk until the ROM boots successfully.
 ### VoLTE does not work
 
 LTE data can work even if VoLTE does not. On custom ROMs for older Qualcomm phones, VoLTE depends on working IMS support. If `adb shell dumpsys ims` says `Can't find service: ims`, the ROM likely does not expose a working Android IMS service.
+
+### crDroid Android 11 ROM
+https://crdroid.net/potter/7
+This is crDroid 7 based on Android 11 for Moto G5 Plus / potter.
+
+### TWRP for Moto G5 Plus / potter
+Device page: https://twrp.me/motorola/motorolamotog5plus.html
+Downloads: https://dl.twrp.me/potter/
+TWRP lists the Moto G5 Plus device codename as potter.
+
+### GApps for Android 11 ARM64
+MindTheGapps Android 11 ARM64:
+https://github.com/MindTheGapps/11.0.0-arm64/releases
+
+Alternative FlameGApps Android 11 ARM64:
+https://sourceforge.net/projects/flamegapps/files/arm64/android-11/
