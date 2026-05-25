@@ -7,6 +7,7 @@ Use only files intended for **Moto G5 Plus / potter**. Do **not** use files for 
 ---
 
 ## 0. What you need
+Get Bootloade unlock code here https://en-us.support.motorola.com/app/standalone/bootloader/unlock-your-device-a
 
 ### On the PC
 
